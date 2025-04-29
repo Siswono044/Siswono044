@@ -54,3 +54,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@siswono.agung-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siswono.agung/)
 
 ---
+
+## 👨‍💻 Fun Developer Animation
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding animation" />
+
+---
+
+## 🧠 Quote of the Day
+
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+
+---
