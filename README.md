@@ -23,7 +23,7 @@
 ---
 
 ## 💼 Work Experience
-_(Isi bagian ini dengan posisi dan perusahaan jika ada)_
+
 
 ---
 
