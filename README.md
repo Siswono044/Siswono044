@@ -30,13 +30,12 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/linkedin-light.svg)]([https://www.linkedin.com/in/agung-siswono-086a6910a/#gh-light-mode-only])
-[![website](./img/linkedin-dark.svg)]([https://www.linkedin.com/in/agung-siswono-086a6910a/)#gh-dark-mode-only])
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]([ttps://www.instagram.com/siswono.agung/#gh-light-mode-only])
-[![website](./img/instagram-dark.svg)]([https://www.instagram.com/siswono.agung/#gh-dark-mode-only])
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/agung-siswono-086a6910a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/agung-siswono-086a6910a/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](ttps://www.instagram.com/siswono.agung/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](ttps://www.instagram.com/siswono.agung/#gh-dark-mode-only)
 
 
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/Siswono044/Siswono044
