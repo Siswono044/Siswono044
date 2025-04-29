@@ -1,41 +1,62 @@
-# Hi there, I'm Agung 👋
-## About me:
-- 🔭 I’m currently working as Development
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: agungsiswono044@gmail.com
+<h1 align="center">Hi there, I'm Agung 👋</h1>
 
-## Education:
-
-#### 1. [STMIK CIC Cirebon which changed to Catur Insan Cendekia (CIC) Cirebon](https://www.cic.ac.id/) | Bachelor of Informatics Engineering | Cirebon `2011-2016`
-
-#### 2. [SMA N 8 Kota Cirebon] | Science | Cirebon `2008-2011`
-
-## Work Experience:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Python+%7C+PHP+%7C+Data+Automation+Enthusiast;Always+learning+new+things+every+day!" />
+</p>
 
 ---
 
-### Languages and Tools:
-
-[<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
+## 👨‍💻 About Me
+- 🔭 I’m currently working as Development  
+- 🌱 I’m currently learning Python and Javascript  
+- 👯 I’m looking to collaborate as Data Automation and Analyst  
+- 💬 Ask me about anything  
+- 📫 Reach me at: **agungsiswono044@gmail.com**
 
 ---
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/agung-siswono-086a6910a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/agung-siswono-086a6910a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/siswono.agung/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/siswono.agung/#gh-dark-mode-only)
 
+## 🎓 Education
 
-[webdev]: https://github.com/Siswono044/Siswono044
+- 🎓 [STMIK CIC Cirebon (Now Catur Insan Cendekia - CIC)](https://www.cic.ac.id/) — *Bachelor of Informatics Engineering (2011–2016)*  
+- 🎓 SMA Negeri 8 Kota Cirebon — *Science Major (2008–2011)*
+
+---
+
+## 💼 Work Experience
+_(Isi bagian ini dengan posisi dan perusahaan jika ada)_
+
+---
+
+## 🛠️ Languages and Tools
+
+[<img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />](#)
+[<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](#)
+[<img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />](#)
+[<img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />](#)
+[<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](#)
+[<img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](#)
+[<img alt="Microsoft Office" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />](#)
+[<img alt="CorelDRAW" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/CorelDRAW_Logo.svg/2048px-CorelDRAW_Logo.svg.png" />](#)
+[<img alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />](#)
+
+---
+
+## 📊 GitHub Stats
+
+![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siswono044&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siswono044&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Siswono044&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agung%20Siswono-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agung-siswono-086a6910a/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@siswono.agung-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siswono.agung/)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Siswono044/Siswono044/blob/output/github-contribution-grid-snake.svg)
+
