@@ -55,14 +55,11 @@
 
 ---
 
-## 👨‍💻 Fun Developer Animation
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding animation" />
-
----
-
 ## 🧠 Quote of the Day
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
+
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding animation" />
 
 ---
