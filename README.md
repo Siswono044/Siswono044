@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Agung 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Python+%7C+PHP+%7C+Enthusiast;Always+learning+%7C+new+things+%7C+every+day!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Python+%7C+PHP;Always+learning+new+things+every+day!" />
 </p>
 
 ---
@@ -36,6 +36,7 @@ _(Isi bagian ini dengan posisi dan perusahaan jika ada)_
 [<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](#)
 [<img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](#)
 [<img alt="Microsoft Office" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />](#)
+[<img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](#)
 
 ---
 
