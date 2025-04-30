@@ -17,7 +17,7 @@
 
 ## 🎓 Education
 
-- 🎓 [STMIK CIC Cirebon (Now Catur Insan Cendekia - CIC)](https://www.cic.ac.id/) — *Bachelor of Informatics Engineering (2011–2016)*  
+- 🎓 [STMIK CIC Cirebon (Now University Catur Insan Cendekia - CIC)](https://www.cic.ac.id/) — *Bachelor of Informatics Engineering (2011–2016)*  
 - 🎓 SMA Negeri 8 Kota Cirebon — *Science Major (2008–2011)*
 
 ---
