@@ -37,6 +37,7 @@
 [<img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](#)
 [<img alt="Microsoft Office" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" />](#)
 [<img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />](#)
+[<img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](#)
 
 ---
 
